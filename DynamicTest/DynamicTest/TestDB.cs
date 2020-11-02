@@ -12,6 +12,7 @@ namespace DynamicTest
     {
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
+            
 
             var entityMethod = typeof(DbModelBuilder).GetMethod("Entity");
 
