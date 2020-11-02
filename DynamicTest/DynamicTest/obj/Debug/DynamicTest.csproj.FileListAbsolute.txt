@@ -1,0 +1,12 @@
+C:\Users\asus\Desktop\me\C#\DynamicTest\DynamicTest\DynamicTest\bin\Debug\DynamicTest.exe.config
+C:\Users\asus\Desktop\me\C#\DynamicTest\DynamicTest\DynamicTest\bin\Debug\DynamicTest.exe
+C:\Users\asus\Desktop\me\C#\DynamicTest\DynamicTest\DynamicTest\bin\Debug\DynamicTest.pdb
+C:\Users\asus\Desktop\me\C#\DynamicTest\DynamicTest\DynamicTest\bin\Debug\EntityFramework.dll
+C:\Users\asus\Desktop\me\C#\DynamicTest\DynamicTest\DynamicTest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\asus\Desktop\me\C#\DynamicTest\DynamicTest\DynamicTest\bin\Debug\EntityFramework.xml
+C:\Users\asus\Desktop\me\C#\DynamicTest\DynamicTest\DynamicTest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\asus\Desktop\me\C#\DynamicTest\DynamicTest\DynamicTest\obj\Debug\DynamicTest.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\me\C#\DynamicTest\DynamicTest\DynamicTest\obj\Debug\DynamicTest.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\me\C#\DynamicTest\DynamicTest\DynamicTest\obj\Debug\DynamicTest.csproj.CopyComplete
+C:\Users\asus\Desktop\me\C#\DynamicTest\DynamicTest\DynamicTest\obj\Debug\DynamicTest.exe
+C:\Users\asus\Desktop\me\C#\DynamicTest\DynamicTest\DynamicTest\obj\Debug\DynamicTest.pdb
